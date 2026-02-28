@@ -719,7 +719,7 @@ function App() {
                     <div className="flex flex-col leading-tight">
                       <span className="text-xs text-slate-300">98% пациентов</span>
                       <span className="text-[11px] text-slate-400">
-                        рекомендуют NeoLab друзьям
+                        рекомендуют Helex Grozny друзьям
                       </span>
                     </div>
                   </div>
@@ -1158,7 +1158,7 @@ function App() {
                     <div className="flex items-start justify-between gap-3">
                       <div>
                         <h3 className="text-sm sm:text-base font-semibold text-slate-50 mb-1">
-                          Контакт-центр NeoLab
+                          Контакт-центр Helex Grozny
                         </h3>
                         <p className="text-[11px] sm:text-xs text-slate-300/80">
                           Поможем подобрать анализы, подготовиться и записаться в
@@ -1225,7 +1225,7 @@ function App() {
                 </div>
                 <div className="flex flex-col">
                   <span className="font-semibold text-sm sm:text-base">
-                    NeoLab Diagnostics
+                    Helex Grozny Diagnostics
                   </span>
                   <span className="text-[11px] sm:text-xs text-slate-400">
                     Медицинская лаборатория нового поколения
@@ -1280,7 +1280,7 @@ function App() {
               <FooterColumn
                 title="О лаборатории"
                 links={[
-                  "О NeoLab",
+                  "О Helex Grozny",
                   "Качество и стандарты",
                   "Локации и часы работы",
                   "Документы и лицензии",
@@ -1290,7 +1290,7 @@ function App() {
           </div>
           <div className="mt-6 sm:mt-8 pt-4 border-t border-slate-800/80 flex flex-col sm:flex-row gap-3 sm:items-center justify-between text-[11px] sm:text-xs text-slate-500">
             <div>
-              © {new Date().getFullYear()} NeoLab Diagnostics. Все права
+              © {new Date().getFullYear()} Helex Grozny Diagnostics. Все права
               защищены.
             </div>
             <div className="flex flex-wrap items-center gap-3">
